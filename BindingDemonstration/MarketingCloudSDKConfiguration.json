@@ -1,0 +1,13 @@
+[{
+    "name": "<Name>",
+    "appid": "<App ID>",
+    "accesstoken": "<Access Token>",
+    "marketing_cloud_server_url": "<Marketing Cloud Server>",
+    "mid": "<MID>",
+    "etanalytics": true,
+    "pianalytics": true,
+    "location": true,
+    "inbox": true,
+    "uselegacypiidentifier": true
+}]
+
